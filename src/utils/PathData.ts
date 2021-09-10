@@ -1,0 +1,1 @@
+export type PathData = [number, number, number, number, number, number]

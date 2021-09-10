@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    font-family: 'Roboto';
+}
+
+#map-container, #map-container > svg{
+    position: absolute;
+    top:0;
+    left: 0;
+}
+
+img.map-background { 
+    width: 100%;
+    height: 100%;
+}

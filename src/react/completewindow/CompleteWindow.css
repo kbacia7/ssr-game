@@ -1,0 +1,29 @@
+.window {
+    position: absolute;
+    width: 20vw;
+    height: 20vmax;
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    left: 35%;
+    text-align: center;
+}
+
+.window button {
+    font-size: 1em;
+    background: #7e57c2;
+    width: 50%;
+    color: #fff;
+    padding: 10px;
+    border: 1px solid #673ab7;
+}
+
+.window h1 {
+    color: #2196f3;
+}
+
+#window-container {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    background-color: rgba(0,0,0,0.12);
+}
